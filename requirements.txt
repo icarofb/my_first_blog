@@ -1,1 +1,2 @@
+django_heroku.settings(locals())
 Django~=2.2.4
